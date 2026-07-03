@@ -1,0 +1,18 @@
+{
+  "name": "matchlens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered football analytics platform",
+  "scripts": {
+    "dev:web": "cd apps/web && npm run dev",
+    "dev:api": "cd apps/api && uvicorn main:app --reload --port 8000",
+    "build:web": "cd apps/web && npm run build",
+    "lint:web": "cd apps/web && npm run lint",
+    "test:web": "cd apps/web && npm run test",
+    "test:api": "cd apps/api && pytest",
+    "test:engine": "cd packages/prediction-engine && pytest"
+  },
+  "workspaces": [
+    "apps/web"
+  ]
+}

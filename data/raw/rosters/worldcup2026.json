@@ -1,0 +1,276 @@
+{
+  "_note": "FIFA World Cup 2026 squad rosters - from official FIFA squad list PDF",
+  "_lastUpdated": "2026-07-03",
+  "Argentina": [
+    {"name": "Emiliano Martínez", "position": "GK", "club": "Aston Villa", "caps": 61, "goals": 0},
+    {"name": "Nahuel Molina", "position": "DEF", "club": "Atletico Madrid", "caps": 45, "goals": 3},
+    {"name": "Cristian Romero", "position": "DEF", "club": "Tottenham", "caps": 35, "goals": 2},
+    {"name": "Nicolás Otamendi", "position": "DEF", "club": "Benfica", "caps": 110, "goals": 9},
+    {"name": "Nicolás Tagliafico", "position": "DEF", "club": "Lyon", "caps": 55, "goals": 1},
+    {"name": "Lisandro Martínez", "position": "DEF", "club": "Manchester United", "caps": 25, "goals": 0},
+    {"name": "Rodrigo De Paul", "position": "MID", "club": "Atletico Madrid", "caps": 65, "goals": 3},
+    {"name": "Enzo Fernández", "position": "MID", "club": "Chelsea", "caps": 35, "goals": 3},
+    {"name": "Alexis Mac Allister", "position": "MID", "club": "Liverpool", "caps": 40, "goals": 4},
+    {"name": "Lionel Messi", "position": "FWD", "club": "Inter Miami", "caps": 191, "goals": 112},
+    {"name": "Julián Álvarez", "position": "FWD", "club": "Atletico Madrid", "caps": 40, "goals": 12},
+    {"name": "Lautaro Martínez", "position": "FWD", "club": "Inter Milan", "caps": 55, "goals": 28}
+  ],
+  "France": [
+    {"name": "Mike Maignan", "position": "GK", "club": "AC Milan", "caps": 25, "goals": 0},
+    {"name": "Jules Koundé", "position": "DEF", "club": "Barcelona", "caps": 40, "goals": 2},
+    {"name": "Dayot Upamecano", "position": "DEF", "club": "Bayern Munich", "caps": 30, "goals": 1},
+    {"name": "William Saliba", "position": "DEF", "club": "Arsenal", "caps": 25, "goals": 0},
+    {"name": "Theo Hernández", "position": "DEF", "club": "AC Milan", "caps": 45, "goals": 4},
+    {"name": "Aurélien Tchouaméni", "position": "MID", "club": "Real Madrid", "caps": 40, "goals": 3},
+    {"name": "Eduardo Camavinga", "position": "MID", "club": "Real Madrid", "caps": 30, "goals": 1},
+    {"name": "Antoine Griezmann", "position": "MID", "club": "Atletico Madrid", "caps": 140, "goals": 46},
+    {"name": "Ousmane Dembélé", "position": "FWD", "club": "PSG", "caps": 55, "goals": 7},
+    {"name": "Kylian Mbappé", "position": "FWD", "club": "Real Madrid", "caps": 95, "goals": 55},
+    {"name": "Marcus Thuram", "position": "FWD", "club": "Inter Milan", "caps": 25, "goals": 5}
+  ],
+  "England": [
+    {"name": "Jordan Pickford", "position": "GK", "club": "Everton", "caps": 70, "goals": 0},
+    {"name": "Kyle Walker", "position": "DEF", "club": "Manchester City", "caps": 95, "goals": 1},
+    {"name": "John Stones", "position": "DEF", "club": "Manchester City", "caps": 80, "goals": 3},
+    {"name": "Luke Shaw", "position": "DEF", "club": "Manchester United", "caps": 40, "goals": 1},
+    {"name": "Declan Rice", "position": "MID", "club": "Arsenal", "caps": 65, "goals": 5},
+    {"name": "Jude Bellingham", "position": "MID", "club": "Real Madrid", "caps": 50, "goals": 8},
+    {"name": "Phil Foden", "position": "MID", "club": "Manchester City", "caps": 50, "goals": 6},
+    {"name": "Bukayo Saka", "position": "FWD", "club": "Arsenal", "caps": 55, "goals": 14},
+    {"name": "Harry Kane", "position": "FWD", "club": "Bayern Munich", "caps": 105, "goals": 72},
+    {"name": "Cole Palmer", "position": "FWD", "club": "Chelsea", "caps": 20, "goals": 4}
+  ],
+  "Brazil": [
+    {"name": "Alisson", "position": "GK", "club": "Liverpool", "caps": 75, "goals": 0},
+    {"name": "Marquinhos", "position": "DEF", "club": "PSG", "caps": 95, "goals": 7},
+    {"name": "Gabriel Magalhães", "position": "DEF", "club": "Arsenal", "caps": 15, "goals": 1},
+    {"name": "Danilo", "position": "DEF", "club": "Juventus", "caps": 60, "goals": 2},
+    {"name": "Bruno Guimarães", "position": "MID", "club": "Newcastle", "caps": 25, "goals": 1},
+    {"name": "Lucas Paquetá", "position": "MID", "club": "West Ham", "caps": 55, "goals": 12},
+    {"name": "Vinícius Jr", "position": "FWD", "club": "Real Madrid", "caps": 40, "goals": 8},
+    {"name": "Rodrygo", "position": "FWD", "club": "Real Madrid", "caps": 30, "goals": 7},
+    {"name": "Richarlison", "position": "FWD", "club": "Tottenham", "caps": 50, "goals": 20}
+  ],
+  "Spain": [
+    {"name": "David Raya", "position": "GK", "club": "Arsenal", "caps": 13, "goals": 0},
+    {"name": "Unai Simón", "position": "GK", "club": "Athletic Bilbao", "caps": 62, "goals": 0},
+    {"name": "Dani Carvajal", "position": "DEF", "club": "Real Madrid", "caps": 55, "goals": 4},
+    {"name": "Marc Cucurella", "position": "DEF", "club": "Chelsea", "caps": 28, "goals": 1},
+    {"name": "Pau Cubarsí", "position": "DEF", "club": "Barcelona", "caps": 16, "goals": 0},
+    {"name": "Rodri", "position": "MID", "club": "Manchester City", "caps": 66, "goals": 4},
+    {"name": "Pedri", "position": "MID", "club": "Barcelona", "caps": 45, "goals": 6},
+    {"name": "Gavi", "position": "MID", "club": "Barcelona", "caps": 32, "goals": 5},
+    {"name": "Lamine Yamal", "position": "FWD", "club": "Barcelona", "caps": 29, "goals": 7},
+    {"name": "Nico Williams", "position": "FWD", "club": "Athletic Bilbao", "caps": 33, "goals": 6},
+    {"name": "Álvaro Morata", "position": "FWD", "club": "AC Milan", "caps": 80, "goals": 36}
+  ],
+  "Germany": [
+    {"name": "Manuel Neuer", "position": "GK", "club": "Bayern Munich", "caps": 120, "goals": 0},
+    {"name": "Antonio Rüdiger", "position": "DEF", "club": "Real Madrid", "caps": 75, "goals": 3},
+    {"name": "Joshua Kimmich", "position": "MID", "club": "Bayern Munich", "caps": 100, "goals": 7},
+    {"name": "Florian Wirtz", "position": "MID", "club": "Bayer Leverkusen", "caps": 35, "goals": 8},
+    {"name": "Jamal Musiala", "position": "MID", "club": "Bayern Munich", "caps": 45, "goals": 7},
+    {"name": "Kai Havertz", "position": "FWD", "club": "Arsenal", "caps": 55, "goals": 18}
+  ],
+  "Portugal": [
+    {"name": "Diogo Costa", "position": "GK", "club": "FC Porto", "caps": 47, "goals": 0},
+    {"name": "Rúben Dias", "position": "DEF", "club": "Manchester City", "caps": 79, "goals": 3},
+    {"name": "Diogo Dalot", "position": "DEF", "club": "Manchester United", "caps": 36, "goals": 3},
+    {"name": "Nuno Mendes", "position": "DEF", "club": "PSG", "caps": 48, "goals": 2},
+    {"name": "Bruno Fernandes", "position": "MID", "club": "Manchester United", "caps": 93, "goals": 29},
+    {"name": "Bernardo Silva", "position": "MID", "club": "Manchester City", "caps": 112, "goals": 14},
+    {"name": "Vitinha", "position": "MID", "club": "PSG", "caps": 42, "goals": 0},
+    {"name": "João Neves", "position": "MID", "club": "PSG", "caps": 26, "goals": 4},
+    {"name": "Cristiano Ronaldo", "position": "FWD", "club": "Al Nassr", "caps": 232, "goals": 146},
+    {"name": "Rafael Leão", "position": "FWD", "club": "AC Milan", "caps": 48, "goals": 6},
+    {"name": "Francisco Conceição", "position": "FWD", "club": "Juventus", "caps": 20, "goals": 4}
+  ],
+  "Netherlands": [
+    {"name": "Bart Verbruggen", "position": "GK", "club": "Brighton", "caps": 33, "goals": 0},
+    {"name": "Virgil van Dijk", "position": "DEF", "club": "Liverpool", "caps": 96, "goals": 13},
+    {"name": "Nathan Aké", "position": "DEF", "club": "Manchester City", "caps": 62, "goals": 5},
+    {"name": "Denzel Dumfries", "position": "DEF", "club": "Inter Milan", "caps": 76, "goals": 11},
+    {"name": "Jorrel Hato", "position": "DEF", "club": "Chelsea", "caps": 9, "goals": 0},
+    {"name": "Frenkie de Jong", "position": "MID", "club": "Barcelona", "caps": 70, "goals": 2},
+    {"name": "Ryan Gravenberch", "position": "MID", "club": "Liverpool", "caps": 31, "goals": 1},
+    {"name": "Tijjani Reijnders", "position": "MID", "club": "Manchester City", "caps": 35, "goals": 7},
+    {"name": "Memphis Depay", "position": "FWD", "club": "Corinthians", "caps": 112, "goals": 55},
+    {"name": "Cody Gakpo", "position": "FWD", "club": "Liverpool", "caps": 54, "goals": 24},
+    {"name": "Wout Weghorst", "position": "FWD", "club": "Ajax", "caps": 53, "goals": 14}
+  ],
+  "Japan": [
+    {"name": "Zion Suzuki", "position": "GK", "club": "Parma", "caps": 29, "goals": 0},
+    {"name": "Takehiro Tomiyasu", "position": "DEF", "club": "Ajax", "caps": 46, "goals": 1},
+    {"name": "Kou Itakura", "position": "DEF", "club": "Ajax", "caps": 43, "goals": 3},
+    {"name": "Hiroki Ito", "position": "DEF", "club": "Bayern Munich", "caps": 29, "goals": 1},
+    {"name": "Ao Tanaka", "position": "MID", "club": "Leeds United", "caps": 41, "goals": 8},
+    {"name": "Takefusa Kubo", "position": "MID", "club": "Real Sociedad", "caps": 50, "goals": 7},
+    {"name": "Daichi Kamada", "position": "MID", "club": "Crystal Palace", "caps": 53, "goals": 14},
+    {"name": "Junya Ito", "position": "MID", "club": "Genk", "caps": 73, "goals": 16},
+    {"name": "Ritsu Doan", "position": "MID", "club": "Eintracht Frankfurt", "caps": 70, "goals": 11},
+    {"name": "Ayase Ueda", "position": "FWD", "club": "Feyenoord", "caps": 44, "goals": 18}
+  ],
+  "Korea Republic": [
+    {"name": "Kim Seunggyu", "position": "GK", "club": "FC Tokyo", "caps": 89, "goals": 0},
+    {"name": "Kim Minjae", "position": "DEF", "club": "Bayern Munich", "caps": 82, "goals": 4},
+    {"name": "Son Heungmin", "position": "FWD", "club": "LAFC", "caps": 147, "goals": 56},
+    {"name": "Hwang Heechan", "position": "MID", "club": "Wolverhampton", "caps": 82, "goals": 17},
+    {"name": "Lee Kangin", "position": "MID", "club": "PSG", "caps": 50, "goals": 10},
+    {"name": "Cho Guesung", "position": "FWD", "club": "FC Midtjylland", "caps": 46, "goals": 12},
+    {"name": "Oh Hyeongyu", "position": "FWD", "club": "Besiktas", "caps": 30, "goals": 7},
+    {"name": "Hwang Inbeom", "position": "MID", "club": "Feyenoord", "caps": 76, "goals": 7}
+  ],
+  "Morocco": [
+    {"name": "Yassine Bounou", "position": "GK", "club": "Al Hilal", "caps": 94, "goals": 0},
+    {"name": "Achraf Hakimi", "position": "DEF", "club": "PSG", "caps": 100, "goals": 12},
+    {"name": "Noussair Mazraoui", "position": "DEF", "club": "Manchester United", "caps": 49, "goals": 2},
+    {"name": "Sofyan Amrabat", "position": "MID", "club": "Real Betis", "caps": 76, "goals": 0},
+    {"name": "Azzedine Ounahi", "position": "MID", "club": "Girona", "caps": 53, "goals": 9},
+    {"name": "Brahim Diaz", "position": "FWD", "club": "Real Madrid", "caps": 30, "goals": 15},
+    {"name": "Ayoub El Kaabi", "position": "FWD", "club": "Olympiacos", "caps": 72, "goals": 36},
+    {"name": "Ismael Saibari", "position": "MID", "club": "PSV", "caps": 34, "goals": 12}
+  ],
+  "USA": [
+    {"name": "Matt Turner", "position": "GK", "club": "New England Revolution", "caps": 55, "goals": 0},
+    {"name": "Sergiño Dest", "position": "DEF", "club": "PSV", "caps": 43, "goals": 3},
+    {"name": "Antonee Robinson", "position": "DEF", "club": "Fulham", "caps": 57, "goals": 5},
+    {"name": "Tyler Adams", "position": "MID", "club": "Bournemouth", "caps": 57, "goals": 2},
+    {"name": "Weston McKennie", "position": "MID", "club": "Juventus", "caps": 70, "goals": 12},
+    {"name": "Giovanni Reyna", "position": "MID", "club": "Borussia Mönchengladbach", "caps": 42, "goals": 10},
+    {"name": "Christian Pulisic", "position": "FWD", "club": "AC Milan", "caps": 89, "goals": 33},
+    {"name": "Ricardo Pepi", "position": "FWD", "club": "PSV", "caps": 41, "goals": 13},
+    {"name": "Folarin Balogun", "position": "FWD", "club": "Monaco", "caps": 30, "goals": 12},
+    {"name": "Timothy Weah", "position": "FWD", "club": "Marseille", "caps": 53, "goals": 7}
+  ],
+  "Mexico": [
+    {"name": "Guillermo Ochoa", "position": "GK", "club": "AEL Limassol", "caps": 154, "goals": 0},
+    {"name": "Edson Álvarez", "position": "DEF", "club": "Fenerbahce", "caps": 102, "goals": 7},
+    {"name": "César Montes", "position": "DEF", "club": "Lokomotiv Moscow", "caps": 71, "goals": 4},
+    {"name": "Orbelín Pineda", "position": "MID", "club": "AEK Athens", "caps": 94, "goals": 12},
+    {"name": "Raúl Jiménez", "position": "FWD", "club": "Fulham", "caps": 129, "goals": 47},
+    {"name": "Santiago Giménez", "position": "FWD", "club": "AC Milan", "caps": 50, "goals": 6}
+  ],
+  "Uruguay": [
+    {"name": "Sergio Rochet", "position": "GK", "club": "Internacional", "caps": 36, "goals": 0},
+    {"name": "José María Giménez", "position": "DEF", "club": "Atletico Madrid", "caps": 99, "goals": 8},
+    {"name": "Ronald Araújo", "position": "DEF", "club": "Barcelona", "caps": 27, "goals": 1},
+    {"name": "Federico Valverde", "position": "MID", "club": "Real Madrid", "caps": 76, "goals": 9},
+    {"name": "Manuel Ugarte", "position": "MID", "club": "Manchester United", "caps": 38, "goals": 1},
+    {"name": "Rodrigo Bentancur", "position": "MID", "club": "Tottenham", "caps": 76, "goals": 3},
+    {"name": "Darwin Núñez", "position": "FWD", "club": "Al Hilal", "caps": 41, "goals": 13},
+    {"name": "Facundo Pellistri", "position": "FWD", "club": "Panathinaikos", "caps": 39, "goals": 2}
+  ],
+  "Norway": [
+    {"name": "Ørjan Nyland", "position": "GK", "club": "Sevilla", "caps": 74, "goals": 0},
+    {"name": "Kristoffer Ajer", "position": "DEF", "club": "Brentford", "caps": 55, "goals": 2},
+    {"name": "Sander Berge", "position": "MID", "club": "Fulham", "caps": 69, "goals": 1},
+    {"name": "Martin Ødegaard", "position": "MID", "club": "Arsenal", "caps": 71, "goals": 5},
+    {"name": "Erling Haaland", "position": "FWD", "club": "Manchester City", "caps": 53, "goals": 60},
+    {"name": "Alexander Sørloth", "position": "FWD", "club": "Atletico Madrid", "caps": 75, "goals": 26},
+    {"name": "Antonio Nusa", "position": "FWD", "club": "RB Leipzig", "caps": 28, "goals": 9}
+  ],
+  "Senegal": [
+    {"name": "Edouard Mendy", "position": "GK", "club": "Al Ahli", "caps": 60, "goals": 0},
+    {"name": "Kalidou Koulibaly", "position": "DEF", "club": "Al Hilal", "caps": 106, "goals": 2},
+    {"name": "Idrissa Gana Gueye", "position": "MID", "club": "Everton", "caps": 140, "goals": 7},
+    {"name": "Sadio Mané", "position": "FWD", "club": "Al Nassr", "caps": 134, "goals": 54},
+    {"name": "Nicolas Jackson", "position": "FWD", "club": "Bayern Munich", "caps": 38, "goals": 8},
+    {"name": "Ismaila Sarr", "position": "FWD", "club": "Crystal Palace", "caps": 88, "goals": 23}
+  ],
+  "Switzerland": [
+    {"name": "Gregor Kobel", "position": "GK", "club": "Borussia Dortmund", "caps": 25, "goals": 0},
+    {"name": "Manuel Akanji", "position": "DEF", "club": "Inter Milan", "caps": 85, "goals": 4},
+    {"name": "Granit Xhaka", "position": "MID", "club": "Sunderland", "caps": 150, "goals": 18},
+    {"name": "Breel Embolo", "position": "FWD", "club": "Rennes", "caps": 90, "goals": 26},
+    {"name": "Dan Ndoye", "position": "FWD", "club": "Nottingham Forest", "caps": 35, "goals": 9},
+    {"name": "Ruben Vargas", "position": "FWD", "club": "Sevilla", "caps": 65, "goals": 13}
+  ],
+  "Ghana": [
+    {"name": "Ibrahim Sulemana", "position": "GK", "club": "Real Oviedo", "caps": 11, "goals": 0},
+    {"name": "Jordan Ayew", "position": "FWD", "club": "Leicester City", "caps": 123, "goals": 34},
+    {"name": "Antoine Semenyo", "position": "MID", "club": "Manchester City", "caps": 37, "goals": 3},
+    {"name": "Inaki Williams", "position": "FWD", "club": "Athletic Bilbao", "caps": 27, "goals": 2},
+    {"name": "Kamaldeen Sulemana", "position": "FWD", "club": "Atalanta", "caps": 30, "goals": 1},
+    {"name": "Ernest Nuamah", "position": "FWD", "club": "Lyon", "caps": 21, "goals": 4}
+  ],
+  "IR Iran": [
+    {"name": "Alireza Beiranvand", "position": "GK", "club": "Tractor Sazi", "caps": 90, "goals": 0},
+    {"name": "Mehdi Taremi", "position": "FWD", "club": "Olympiacos", "caps": 109, "goals": 59},
+    {"name": "Alireza Jahanbakhsh", "position": "MID", "club": "Dender", "caps": 101, "goals": 17},
+    {"name": "Sardar Azmoun", "position": "FWD", "club": "Roma", "caps": 80, "goals": 45}
+  ],
+  "Sweden": [
+    {"name": "Viktor Gyökeres", "position": "FWD", "club": "Arsenal", "caps": 37, "goals": 21},
+    {"name": "Alexander Isak", "position": "FWD", "club": "Liverpool", "caps": 62, "goals": 18},
+    {"name": "Anthony Elanga", "position": "FWD", "club": "Newcastle", "caps": 34, "goals": 8},
+    {"name": "Victor Lindelöf", "position": "DEF", "club": "Aston Villa", "caps": 80, "goals": 3}
+  ],
+  "Türkiye": [
+    {"name": "Hakan Çalhanoğlu", "position": "MID", "club": "Inter Milan", "caps": 108, "goals": 22},
+    {"name": "Arda Güler", "position": "FWD", "club": "Real Madrid", "caps": 33, "goals": 7},
+    {"name": "Kenan Yıldız", "position": "FWD", "club": "Juventus", "caps": 31, "goals": 5},
+    {"name": "Ferdi Kadıoğlu", "position": "DEF", "club": "Brighton", "caps": 32, "goals": 2}
+  ],
+  "Cabo Verde": [
+    {"name": "Vozinha", "position": "GK", "club": "GD Chaves", "caps": 93, "goals": 0},
+    {"name": "Stopira", "position": "DEF", "club": "SCU Torreense", "caps": 61, "goals": 4},
+    {"name": "Logan Costa", "position": "DEF", "club": "Villarreal", "caps": 28, "goals": 0},
+    {"name": "Kevin Pina", "position": "MID", "club": "Krasnodar", "caps": 34, "goals": 4},
+    {"name": "Jovane Cabral", "position": "MID", "club": "Estrela Amadora", "caps": 30, "goals": 3},
+    {"name": "Jamiro Monteiro", "position": "MID", "club": "PEC Zwolle", "caps": 58, "goals": 5},
+    {"name": "Garry Rodrigues", "position": "MID", "club": "Apollon Limassol", "caps": 63, "goals": 10},
+    {"name": "Ryan Mendes", "position": "FWD", "club": "Igdir FK", "caps": 101, "goals": 22},
+    {"name": "Dailon Livramento", "position": "FWD", "club": "Casa Pia", "caps": 24, "goals": 7},
+    {"name": "Gilson Benchimol", "position": "FWD", "club": "Akron Tolyatti", "caps": 22, "goals": 6}
+  ],
+  "Algeria": [
+    {"name": "Riyad Mahrez", "position": "FWD", "club": "Al Ahli", "caps": 120, "goals": 40},
+    {"name": "Mohamed Amoura", "position": "FWD", "club": "Wolfsburg", "caps": 48, "goals": 19},
+    {"name": "Amine Gouiri", "position": "FWD", "club": "Marseille", "caps": 27, "goals": 11},
+    {"name": "Houssem Aouar", "position": "MID", "club": "Al Ittihad", "caps": 26, "goals": 6},
+    {"name": "Rayan Ait-Nouri", "position": "DEF", "club": "Manchester City", "caps": 34, "goals": 0},
+    {"name": "Ramy Bensebaini", "position": "DEF", "club": "Borussia Dortmund", "caps": 86, "goals": 9},
+    {"name": "Ibrahim Maza", "position": "MID", "club": "Bayer Leverkusen", "caps": 21, "goals": 2}
+  ],
+  "Belgium": [
+    {"name": "Thibaut Courtois", "position": "GK", "club": "Real Madrid", "caps": 113, "goals": 0},
+    {"name": "Kevin De Bruyne", "position": "MID", "club": "Napoli", "caps": 123, "goals": 38},
+    {"name": "Romelu Lukaku", "position": "FWD", "club": "Napoli", "caps": 130, "goals": 92},
+    {"name": "Leandro Trossard", "position": "FWD", "club": "Arsenal", "caps": 55, "goals": 14},
+    {"name": "Jeremy Doku", "position": "FWD", "club": "Manchester City", "caps": 46, "goals": 7}
+  ],
+  "Colombia": [
+    {"name": "James Rodríguez", "position": "MID", "club": "Minnesota United", "caps": 129, "goals": 31},
+    {"name": "Luis Díaz", "position": "FWD", "club": "Bayern Munich", "caps": 77, "goals": 23},
+    {"name": "Richard Ríos", "position": "MID", "club": "Benfica", "caps": 35, "goals": 2},
+    {"name": "Daniel Muñoz", "position": "DEF", "club": "Crystal Palace", "caps": 49, "goals": 5}
+  ],
+  "Croatia": [
+    {"name": "Luka Modrić", "position": "MID", "club": "AC Milan", "caps": 202, "goals": 29},
+    {"name": "Mateo Kovačić", "position": "MID", "club": "Manchester City", "caps": 117, "goals": 5},
+    {"name": "Joško Gvardiol", "position": "DEF", "club": "Manchester City", "caps": 52, "goals": 4},
+    {"name": "Andrej Kramarić", "position": "FWD", "club": "Hoffenheim", "caps": 119, "goals": 36}
+  ],
+  "Canada": [
+    {"name": "Alphonso Davies", "position": "DEF", "club": "Bayern Munich", "caps": 59, "goals": 15},
+    {"name": "Jonathan David", "position": "FWD", "club": "Juventus", "caps": 81, "goals": 42},
+    {"name": "Cyle Larin", "position": "FWD", "club": "Southampton", "caps": 93, "goals": 32},
+    {"name": "Tajon Buchanan", "position": "FWD", "club": "Villarreal", "caps": 64, "goals": 8}
+  ],
+  "Ecuador": [
+    {"name": "Piero Hincapié", "position": "DEF", "club": "Arsenal", "caps": 56, "goals": 2},
+    {"name": "Moisés Caicedo", "position": "MID", "club": "Chelsea", "caps": 65, "goals": 3},
+    {"name": "Enner Valencia", "position": "FWD", "club": "Pachuca", "caps": 109, "goals": 49},
+    {"name": "Kendry Páez", "position": "MID", "club": "River Plate", "caps": 27, "goals": 2}
+  ],
+  "Egypt": [
+    {"name": "Mohamed Salah", "position": "FWD", "club": "Liverpool", "caps": 119, "goals": 68},
+    {"name": "Omar Marmoush", "position": "FWD", "club": "Manchester City", "caps": 53, "goals": 11}
+  ],
+  "Côte d'Ivoire": [
+    {"name": "Franck Kessié", "position": "MID", "club": "Al Ahli", "caps": 108, "goals": 16},
+    {"name": "Simon Adingra", "position": "FWD", "club": "Monaco", "caps": 30, "goals": 5},
+    {"name": "Amad Diallo", "position": "FWD", "club": "Manchester United", "caps": 23, "goals": 8},
+    {"name": "Nicolas Pépé", "position": "FWD", "club": "Villarreal", "caps": 60, "goals": 14}
+  ]
+}
